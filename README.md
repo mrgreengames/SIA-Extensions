@@ -1,7 +1,7 @@
 # SIA-Extensions
 Programming for Extensions for SIA
 
-## Extensions
+### Extensions
 Extension test
 
 # Want to create your own extension?
